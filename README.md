@@ -1,1 +1,3 @@
-# hello-world-ShomaSuzuki
+# hello-world
+
+Template for Hello World tutorial
